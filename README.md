@@ -1,6 +1,6 @@
 # Slack Clone Implementation
   
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
+This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend. [https://dashboard.convex.dev/t/v-harshad-khandare-elitmus-com/my-project-chef-8d009/resilient-swan-738]
   
 This project is connected to the Convex deployment named [`dapper-ptarmigan-768`](https://dashboard.convex.dev/d/dapper-ptarmigan-768).
   
